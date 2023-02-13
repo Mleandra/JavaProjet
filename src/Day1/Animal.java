@@ -21,6 +21,12 @@ public class Animal {
 
     }
 
+    public void info(){
+        System.out.println("Nom : "+this.nom);
+        System.out.println("Age : "+this.age);
+        System.out.println("Date de naissance : "+this.dateNaissance);
+    }
+
 
 
 
