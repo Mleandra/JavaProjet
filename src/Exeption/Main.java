@@ -1,6 +1,6 @@
 package Exeption;
 /*
-* 
+*
 * */
 import java.util.Scanner;
 
